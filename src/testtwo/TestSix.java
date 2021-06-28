@@ -9,6 +9,9 @@ public class TestSix {
         System.out.println("ddd");
         System.out.println("fff");
         System.out.println("eee");
+
+        System.out.println("ggg");
+
     }
 
 }
