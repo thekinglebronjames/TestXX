@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcadbaf-cd13-441b-9e0e-a6c729522ef5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testtwo/TestSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testtwo/TestSix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,20 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/testtwo/TestSix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="133">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -122,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/testtwo/Erchashubianli.java" />
         <option value="$PROJECT_DIR$/src/testtwo/TestX.java" />
         <option value="$PROJECT_DIR$/src/testtwo/TestFive.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/testtwo/TestSix.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -291,7 +291,7 @@
       <workItem from="1623858642832" duration="1165000" />
       <workItem from="1623933672686" duration="35566000" />
       <workItem from="1624451253632" duration="2454000" />
-      <workItem from="1624870491170" duration="6618000" />
+      <workItem from="1624870491170" duration="7116000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1624870838563</created>
@@ -419,11 +419,25 @@
       <option name="project" value="LOCAL" />
       <updated>1624880129870</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update TestSix">
+      <created>1624883307604</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1624883307604</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update TestSix">
+      <created>1624883523911</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1624883523911</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67335000" />
+    <option name="totallyTimeSpent" value="67833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,13 +612,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/testtwo/TestFive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -618,8 +625,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testtwo/TestSix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
