@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcadbaf-cd13-441b-9e0e-a6c729522ef5" name="Default Changelist" comment="new class TestSix" />
+    <list default="true" id="bdcadbaf-cd13-441b-9e0e-a6c729522ef5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/testtwo/TestFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="47" selection-start-line="47" selection-end-line="48" />
+            <state relative-caret-position="247">
+              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -278,7 +278,7 @@
       <workItem from="1623858642832" duration="1165000" />
       <workItem from="1623933672686" duration="35566000" />
       <workItem from="1624451253632" duration="2454000" />
-      <workItem from="1624870491170" duration="2274000" />
+      <workItem from="1624870491170" duration="2609000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1624870838563</created>
@@ -343,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1624872386957</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update work">
+      <created>1624873023380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624873023380</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62991000" />
+    <option name="totallyTimeSpent" value="63326000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,8 +368,8 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3939394" visible="true" weight="0.20314735" />
-      <window_info id="Structure" order="1" sideWeight="0.6060606" side_tool="true" visible="true" weight="0.20314735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65543073" visible="true" weight="0.20314735" />
+      <window_info id="Structure" order="1" sideWeight="0.3445693" side_tool="true" visible="true" weight="0.20314735" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -378,7 +385,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.8807229" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3566265" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -404,7 +411,8 @@
     <MESSAGE value="update t1 method" />
     <MESSAGE value="update t1" />
     <MESSAGE value="new class TestSix" />
-    <option name="LAST_COMMIT_MESSAGE" value="new class TestSix" />
+    <MESSAGE value="update work" />
+    <option name="LAST_COMMIT_MESSAGE" value="update work" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/testtwo/testA.java" />
@@ -531,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/testtwo/TestFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="47" selection-start-line="47" selection-end-line="48" />
+        <state relative-caret-position="247">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
