@@ -3,8 +3,9 @@ package testtwo;
 public class TestFive {
     public static void main(String[] args) {
         int[] arr={9999,99,89889898};
-        System.out.println(test(arr)[0]);
-        System.out.println(test(arr)[1]);
+        //System.out.println(test(arr)[0]);
+        //System.out.println(test(arr)[1]);
+        t1(arr);
 
     }
 
@@ -22,6 +23,28 @@ public class TestFive {
             }
         }
         return new int[]{max, secondMax};
+    }
+
+    static void t1(int[] arr) {
+        boolean flag = true;
+        for (int i = 0; i < arr.length; i++) {
+            flag = true;
+            for (int j = 0; j < arr.length - i-1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    flag = false;
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+            if (flag) {
+                break;
+            }
+        }
+        for (int i : arr) {
+            System.out.println(i);
+        }
+
     }
 
 
