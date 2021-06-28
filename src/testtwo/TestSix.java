@@ -5,6 +5,7 @@ public class TestSix {
         System.out.println("aaa");
         System.out.println("bbb");
 
+        System.out.println("ccc");
     }
 
 }
