@@ -48,6 +48,12 @@ public class TestFive {
 
     }
 
+    static void t2(int[] arr) {
+        int n = arr.length;
+        System.out.println(n);
+
+    }
+
 
 
 }
