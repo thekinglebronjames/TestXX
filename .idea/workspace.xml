@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcadbaf-cd13-441b-9e0e-a6c729522ef5" name="Default Changelist" comment="">
+    <list default="true" id="bdcadbaf-cd13-441b-9e0e-a6c729522ef5" name="Default Changelist" comment="update t1 method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testtwo/TestFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testtwo/TestFive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/testtwo/TestFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="220">
+              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -67,6 +68,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature1" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -238,8 +244,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestX" />
         <item itemvalue="Application.TestFive" />
+        <item itemvalue="Application.TestX" />
         <item itemvalue="Application.LowestCommonAncestor" />
         <item itemvalue="Application.LongestHuiWenTest" />
         <item itemvalue="Application.Erchashubianli" />
@@ -263,7 +269,7 @@
       <workItem from="1623858642832" duration="1165000" />
       <workItem from="1623933672686" duration="35566000" />
       <workItem from="1624451253632" duration="2454000" />
-      <workItem from="1624870491170" duration="1148000" />
+      <workItem from="1624870491170" duration="1567000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1624870838563</created>
@@ -286,17 +292,45 @@
       <option name="project" value="LOCAL" />
       <updated>1624871665007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add t2 method">
+      <created>1624871720615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624871720615</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update t1">
+      <created>1624871773758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624871773758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add t3 method">
+      <created>1624871840749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624871840749</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update t1 method">
+      <created>1624871961229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624871961229</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61865000" />
+    <option name="totallyTimeSpent" value="62284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6551155" visible="true" weight="0.20314735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6551155" visible="true" weight="0.20314735" />
       <window_info id="Structure" order="1" sideWeight="0.34488449" side_tool="true" visible="true" weight="0.20314735" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +339,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26987952" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26987952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,7 +368,11 @@
     <MESSAGE value="init" />
     <MESSAGE value="add t1 method" />
     <MESSAGE value="add t1 method introduce to method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add t1 method introduce to method" />
+    <MESSAGE value="add t2 method" />
+    <MESSAGE value="update t1" />
+    <MESSAGE value="add t3 method" />
+    <MESSAGE value="update t1 method" />
+    <option name="LAST_COMMIT_MESSAGE" value="update t1 method" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/testtwo/testA.java" />
@@ -422,8 +460,8 @@
     <entry file="file://$PROJECT_DIR$/src/testtwo/TestX.java" />
     <entry file="file://$PROJECT_DIR$/src/testtwo/TestFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>

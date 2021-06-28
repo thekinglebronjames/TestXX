@@ -25,7 +25,7 @@ public class TestFive {
         return new int[]{max, secondMax};
     }
 
-    //这是一个冒泡的排序方法
+    //这是一个冒泡排序
     static void t1(int[] arr) {
         boolean flag = true;
         for (int i = 0; i < arr.length; i++) {
@@ -47,20 +47,6 @@ public class TestFive {
         }
 
     }
-
-    static void t2(int[] arr) {
-        int n = arr.length;
-        System.out.println(n);
-
-    }
-
-    static void t3(int[] arr) {
-        for (int i = arr.length - 1; i >= 0; i--) {
-            System.out.println(i);
-        }
-
-    }
-
 
 
 }
