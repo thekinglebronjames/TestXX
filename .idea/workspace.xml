@@ -176,20 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestFive">
-    <configuration name="Erchashubianli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testtwo.Erchashubianli" />
-      <module name="TestX" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testtwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestSix">
     <configuration name="LongestHuiWenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testtwo.LongestHuiWenTest" />
       <module name="TestX" />
@@ -229,6 +216,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testtwo.TestSix" />
+      <module name="TestX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testtwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testtwo.TestX" />
       <module name="TestX" />
@@ -244,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSix" />
         <item itemvalue="Application.TestFive" />
         <item itemvalue="Application.TestX" />
         <item itemvalue="Application.LowestCommonAncestor" />
         <item itemvalue="Application.LongestHuiWenTest" />
-        <item itemvalue="Application.Erchashubianli" />
       </list>
     </recent_temporary>
   </component>
