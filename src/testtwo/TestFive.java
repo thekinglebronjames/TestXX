@@ -48,5 +48,9 @@ public class TestFive {
 
     }
 
+    static void t3(int[] arr) {
+        System.out.println("kkk");
+    }
+
 
 }
