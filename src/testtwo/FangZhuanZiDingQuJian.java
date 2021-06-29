@@ -64,4 +64,8 @@ public class FangZhuanZiDingQuJian {
         }
         return dummyHead.next;
     }
+
+    static void test(int[] arr) {
+
+    }
 }
