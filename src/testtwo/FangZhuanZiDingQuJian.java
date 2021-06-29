@@ -1,5 +1,7 @@
 package testtwo;
 
+import java.util.*;
+
 public class FangZhuanZiDingQuJian {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
@@ -7,7 +9,7 @@ public class FangZhuanZiDingQuJian {
         ListNode l3 = new ListNode(3);
         l1.next = l2;
         l2.next = l3;
-        ListNode listNode = t3(l1, 2, 3);
+        ListNode listNode = test(l1, 2, 3);
         while (listNode != null) {
             System.out.println(listNode.val);
             listNode = listNode.next;
@@ -65,7 +67,63 @@ public class FangZhuanZiDingQuJian {
         return dummyHead.next;
     }
 
-    static void test(int[] arr) {
-
+    static ListNode test(ListNode head, int left, int right) {
+        ListNode dummyNode = new ListNode(0);
+        dummyNode.next = head;
+        ListNode prev = dummyNode;
+        for (int i = 0; i < left - 1; i++) {
+            prev = prev.next;
+        }
+        ListNode fixedNode = prev.next;
+        for (int i = 0; i < right - left; i++) {
+            ListNode p = fixedNode.next;
+            fixedNode.next = p.next;
+            p.next = prev.next;
+            prev.next = p;
+        }
+        return dummyNode.next;
     }
+
+
+    static void first(TreeNode root) {
+        Deque<TreeNode> stack = new LinkedList<>();
+        List<Integer> list = new ArrayList<>();
+        while (!stack.isEmpty()||root!=null) {
+            while (root != null) {
+                list.add(root.val);
+                root = root.left;
+            }
+            root = stack.pop().right;
+            //list.add(root.val);
+        }
+
+        while (!stack.isEmpty()||root!=null) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            list.add(root.val);
+            root = root.right;
+        }
+
+        TreeNode prev = null;
+        while (!stack.isEmpty()||root!=null) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            if (root.right == null || root.right == prev) {
+                list.add(root.val);
+                prev = root;
+                root = null;
+            } else {
+                stack.push(root);
+                root = root.right;
+            }
+        }
+    }
+
+
 }
