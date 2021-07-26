@@ -45,16 +45,10 @@ public class Test {
                 System.out.println(false);
             }
         });
-
-
+        if (true) {
+            System.out.println("hhh");
+        }
 
     }
-    interface It{
-        public void getX(int[] a);
-    }
-
-
-
-
 
 }
