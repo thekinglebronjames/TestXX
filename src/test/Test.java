@@ -18,7 +18,7 @@ public class Test {
         Arrays.sort(arr);
 
 
-        List<Integer> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();1
         list.add(1);
         list.add(2);
         list.add(2);
@@ -48,6 +48,10 @@ public class Test {
 
         System.out.println("xxx");
 
+
+        if (true) {
+            System.out.println("hhh");
+        }
 
     }
 
