@@ -49,12 +49,6 @@ public class Test {
 
 
     }
-    interface It{
-        public void getX(int[] a);
-    }
-
-
-
 
 
 }
