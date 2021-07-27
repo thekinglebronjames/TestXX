@@ -53,9 +53,6 @@ public class Test {
             System.out.println("hhh");
         }
 
-        System.out.println("yyyy");
-        System.out.println("tttt");
-
     }
 
 
