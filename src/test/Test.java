@@ -52,6 +52,7 @@ public class Test {
         if (true) {
             System.out.println("hhh");
         }
+        System.out.println("");
 
     }
 
