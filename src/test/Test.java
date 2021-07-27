@@ -52,7 +52,7 @@ public class Test {
         if (true) {
             System.out.println("hhh");
         }
-        System.out.println("111");
+        System.out.println("111222");
 
     }
 
