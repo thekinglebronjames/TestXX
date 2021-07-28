@@ -14,8 +14,7 @@ public class Test {
         int[] arr = {111, 1, 1, 1};
         Integer[] arr1 = {1, 1, 1, 1, 1, 1};
 
-        It it = a -> System.out.println(a);
-        Arrays.sort(arr);
+
 
 
         List<Integer> list = new ArrayList<>();
