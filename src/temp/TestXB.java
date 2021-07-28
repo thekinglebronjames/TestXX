@@ -1,5 +1,7 @@
 package temp;
 
+import com.sun.media.sound.SoftTuning;
+
 public class TestXB {
     public static void main(String[] args) {
         System.out.println("xb111");
@@ -8,6 +10,6 @@ public class TestXB {
         System.out.println("xb444");
         System.out.println("xb555");
         System.out.println("xb6666666");
-        
+        System.out.println("xb777");
     }
 }
