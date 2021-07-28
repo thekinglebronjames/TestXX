@@ -7,5 +7,6 @@ public class TestXB {
         System.out.println("xb333");
         System.out.println("xb444");
         System.out.println("xb555");
+        System.out.println("xb666");
     }
 }
