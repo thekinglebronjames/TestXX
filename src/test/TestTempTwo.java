@@ -8,5 +8,6 @@ public class TestTempTwo {
         System.out.println("666....");
         System.out.println("777....");
         System.out.println("888");
+        System.out.println("999");
     }
 }
