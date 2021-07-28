@@ -27,6 +27,7 @@ public class TestFive {
             hashMap.put(arr[i], i);
         }
         System.out.println("five 111");
+        System.out.println("five 222");
         return null;
     }
 }
