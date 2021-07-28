@@ -11,5 +11,7 @@ public class TestXA {
         System.out.println("xa777");
         System.out.println("xa888");
         System.out.println("xa999");
+        System.out.println("xa101010");
+        System.out.println("xa111111");
     }
 }
