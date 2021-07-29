@@ -24,5 +24,6 @@ public class TestXB {
         System.out.println("xb1919");
         System.out.println("xb20");
         System.out.println("xb21");
+        System.out.println("xb22");
     }
 }
