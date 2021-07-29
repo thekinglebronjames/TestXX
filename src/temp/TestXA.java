@@ -25,5 +25,6 @@ public class TestXA {
         System.out.println("xa19");
         System.out.println("xa20");
         System.out.println("xa21");
+        System.out.println("xa22");
     }
 }
