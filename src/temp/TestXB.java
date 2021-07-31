@@ -8,5 +8,6 @@ public class TestXB {
         System.out.println("xb2");
         System.out.println("xb3");
         System.out.println("xb4");
+        System.out.println("xb5");
   }
 }
