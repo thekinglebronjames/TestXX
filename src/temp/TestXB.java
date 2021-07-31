@@ -11,5 +11,6 @@ public class TestXB {
         System.out.println("xb5");
         System.out.println("xb6");
         System.out.println("xb7");
+        System.out.println("xb8");
   }
 }
