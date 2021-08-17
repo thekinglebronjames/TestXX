@@ -8,7 +8,7 @@ public class TestXC {
         System.out.println(Long.valueOf("0086"));
         System.out.println(Long.valueOf("0087"));
         System.out.println(Long.valueOf("0088"));
-
+        System.out.println(Long.valueOf("0089"));
 
     }
 }
